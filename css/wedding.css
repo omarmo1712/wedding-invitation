@@ -615,6 +615,15 @@ body.preloader-site {
 
 
 
+.couple-photo {
+  max-width: 420px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(153, 110, 109, 0.35);
+  margin: 0 auto;
+  display: block;
+}
+
 .title-foto {
   font-size: 18pt;
   font-family: 'Lato', sans-serif;
