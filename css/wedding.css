@@ -67,8 +67,8 @@ html {
 
 }
 
-.hero .hero-body {
-  padding-top: 0px;
+.hero.is-large .hero-body {
+  padding-top: 3rem;
 }
 
 .hero .hero-foot {
