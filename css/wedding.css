@@ -22,10 +22,8 @@ html {
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
-  text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
-  box-shadow:  ;
 }
 
 .navbar-item.is-active{
@@ -33,7 +31,7 @@ html {
 }
 
 .a.navbar-item{
-  font-color: #996E6D;
+  color: #996E6D;
 }
 
 
@@ -66,7 +64,11 @@ html {
 .hero .tempatwaktu {
   padding-top: 35px;
   font-size: 1.3rem;
-  
+
+}
+
+.hero .hero-body {
+  padding-top: 0px;
 }
 
 .hero .hero-foot {
@@ -89,7 +91,6 @@ html {
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
   line-height: 38px;
   font-weight: 600;
-  text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
 }
@@ -333,7 +334,6 @@ vertical-align: middle;
 .tempat {
   font-size: 1.4rem;
   font-family: 'Raleway', sans-serif;
-  font-size: ;
   margin-bottom: 50px;
 }
 
